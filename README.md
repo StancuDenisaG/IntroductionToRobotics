@@ -18,7 +18,8 @@ Building  the  traffic  lights  for  a  crosswalk. You will use 2 LEDs to repres
 4.State 4 (initiated after state 3 ends):  red for cars,blinking greenfor people and a beeping sound from the buzzer,  at a constant interval,  faster than the beeping in state 3.  This state should last 4 seconds.\
 Be  careful:  pressing  the  button  in  any  state  other  than  state  1  should NOT yield any actions.\
 **Setup picture:**\
-![RGB led image]()
+![Crosswalk image](https://github.com/StancuDenisaG/IntroductionToRobotics/blob/main/Homework2/crosswalk_2.jpeg)
+![Crosswalk image](https://github.com/StancuDenisaG/IntroductionToRobotics/blob/main/Homework2/crosswalk_1.jpeg)
 **Video:**\
 
 
