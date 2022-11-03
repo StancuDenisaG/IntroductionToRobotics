@@ -21,5 +21,5 @@ Be  careful:  pressing  the  button  in  any  state  other  than  state  1  shou
 ![Crosswalk image](https://github.com/StancuDenisaG/IntroductionToRobotics/blob/main/Homework2/crosswalk_2.jpeg)
 ![Crosswalk image](https://github.com/StancuDenisaG/IntroductionToRobotics/blob/main/Homework2/crosswalk_1.jpeg)
 **Video:**\
-
+https://youtu.be/HRBZzg-lszI
 
