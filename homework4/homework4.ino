@@ -2,9 +2,7 @@ const long blinkInterval = 300;
 const int longPress = 2000;
 int state = 1;
 int currentDisplay = 3;
-
-const int encodingsNumber = 16;
-int byteEncodings[encodingsNumber] = {
+int byteEncodings[16] = {
   //A B C D E F G DP
   B11111100,  // 0
   B01100000,  // 1
