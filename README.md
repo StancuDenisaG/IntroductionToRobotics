@@ -52,5 +52,5 @@ Create a menu for the game, using a joystick to scroll on the LCD.\
 ![image](https://github.com/StancuDenisaG/IntroductionToRobotics/blob/main/Homework%205/menu_2.jpeg)
 
 **Video:**\
-https://youtu.be/twLX1cJsWMQ
+https://youtube.com/shorts/QEg3OmvJ8NY?feature=share
 
