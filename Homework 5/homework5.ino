@@ -380,10 +380,10 @@ void aboutSection(){
 }
 
 void scrollText(){
-    for(int i=0; i<16; i++)//loop for scrolling the text
+    for(int i=0; i<16; i++)
    {
-    lcd.scrollDisplayLeft();//builtin command to scroll the text left again
-    delay(550);//delay of 150 msec
+    lcd.scrollDisplayLeft();
+    delay(550);
     }
 }
 
